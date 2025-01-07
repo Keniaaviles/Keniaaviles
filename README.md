@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I'm Kenia Aviles Quintero!💗
 
-<!--
-**Keniaaviles/Keniaaviles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate student with a strong interest in cybersecurity, technology, and continuous learning.
 
-Here are some ideas to get you started:
+♡ First Generation Latina determined to increase representation of Latinas in the tech industry, where they currently    make up only 2% of the tech workforce. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+♡ Information Science Major at University of Maryland College Park.
+
+♡ Associate of Science degree in Information Technology from Prince George's Community College.
+
+♡ Currently exploring hands-on projects in cybersecurity and programming to build practical skills and contribute to     meaningful solutions.
+
+
