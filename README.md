@@ -10,6 +10,8 @@ Welcome to my GitHub profile! I'm a passionate student with a strong interest in
 
 ♡ Currently exploring hands-on projects in cybersecurity and programming to build practical skills and contribute to     meaningful solutions.
 
+♡ EMAIL: Keniaaviles101@gmail.com
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kenia.aq) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kenia-aviles-quintero-a39a96268/) 
